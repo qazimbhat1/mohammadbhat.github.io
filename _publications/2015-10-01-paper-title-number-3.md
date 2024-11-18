@@ -1,7 +1,7 @@
 ---
 title: "Web2Code: Multi-Modal Model for Webpage Understanding and Code Translation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-10-20-web2code
 excerpt: 'This paper introduces Web2Code, a model enhancing webpage understanding and code translation through a novel multi-modal dataset.'
 date: 2024-10-20
