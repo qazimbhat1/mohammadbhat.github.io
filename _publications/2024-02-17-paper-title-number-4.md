@@ -1,7 +1,7 @@
 ---
 title: "Interpretation of Fake Reviews"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-07-15-interpretation-fake-reviews
 excerpt: 'This paper explores an interpretable framework for detecting fake reviews using advanced machine learning techniques.'
 date: 2022-07-15
