@@ -1,7 +1,7 @@
 ---
 title: "AutoVideo: An Open-Source Framework for Automated Video Processing"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-06-01-autovideo
 excerpt: 'AutoVideo is an open-source framework that simplifies automated video processing with an emphasis on accessibility and scalability.'
 date: 2022-06-01
