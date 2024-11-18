@@ -1,7 +1,7 @@
 ---
 title: "Qualitative Analysis of Anomaly Detection in Time-Series"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-08-01-qualitative-analysis-anomaly-detection
 excerpt: 'A study on effective anomaly detection techniques in time-series data, with focus on qualitative insights.'
 date: 2023-08-01
